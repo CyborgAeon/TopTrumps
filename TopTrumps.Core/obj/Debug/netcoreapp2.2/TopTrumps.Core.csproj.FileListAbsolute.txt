@@ -1,0 +1,9 @@
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\obj\Debug\netcoreapp2.2\TopTrumps.Core.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\obj\Debug\netcoreapp2.2\TopTrumps.Core.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\obj\Debug\netcoreapp2.2\TopTrumps.Core.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\obj\Debug\netcoreapp2.2\TopTrumps.Core.AssemblyInfo.cs
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\bin\Debug\netcoreapp2.2\TopTrumps.Core.deps.json
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\bin\Debug\netcoreapp2.2\TopTrumps.Core.dll
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\bin\Debug\netcoreapp2.2\TopTrumps.Core.pdb
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\obj\Debug\netcoreapp2.2\TopTrumps.Core.dll
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\TopTrumps\TopTrumps.Core\obj\Debug\netcoreapp2.2\TopTrumps.Core.pdb
