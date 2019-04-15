@@ -1,0 +1,14 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+  <div>
+    <div *ngIf="isGoingFirst"> You're going first.</div>
+    <div *ngIf="!isGoingFirst"> You're not going first. Bad luck; you only have a 2/10 chance anyway~</div>
+    
+    <app-card *ngIf="decks" [decks]="decks" [isGoingFirst]="isGoingFirst">
+
+    </app-card>
+  </div>
+<router-outlet></router-outlet>

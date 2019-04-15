@@ -1,0 +1,13 @@
+<h3>{{ winningPlayer }}</h3>
+<div *ngIf="!winningPlayer"> 
+  <button *ngIf="!gameStarted" (click)="beginGame()">Play</button>
+  <div>Cards in your deck = {{ decks[0].ships.length }}</div>
+  <div>Cards in your opponent's deck = {{ decks[1].ships.length }}</div>
+  <div *ngIf="gameStarted">
+    <div><button (click)="playerTurn('cost_in_credits')">Cost:</button> {{ decks[0].ships[0].cost_in_credits }}</div>
+    <div><button (click)="playerTurn('hyperdrive_rating')">Hyperdrive rating:</button> {{ decks[0].ships[0].hyperdrive_rating }}</div>
+    <div><button (click)="playerTurn('MGLT')">Top speed:</button> {{ decks[0].ships[0].mglt }}</div>
+    <div><button (click)="playerTurn('films')">Films:</button> {{ decks[0].ships[0].films.length }}</div>
+    <div><button (click)="playerTurn('crew')">Crew required:</button> {{ decks[0].ships[0].crew }}</div>
+  </div>
+</div>
